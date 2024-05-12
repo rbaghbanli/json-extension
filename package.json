@@ -1,6 +1,6 @@
 {
 	"name": "json-extension",
-	"version": "1.0.1",
+	"version": "1.0.2",
 	"description": "Json Extension",
 	"main": "dst/cjs/index.js",
 	"module": "dst/index.js",
@@ -36,7 +36,7 @@
 	"license": "MIT",
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/rbaghbanli/json-extension.git"
+		"url": "git+https://github.com/rbaghbanli/json-extension.git"
 	},
 	"exports": {
 		".": {
