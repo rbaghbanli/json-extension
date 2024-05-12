@@ -1,6 +1,6 @@
 {
 	"name": "json-extension",
-	"version": "1.0.0",
+	"version": "1.0.1",
 	"description": "Json Extension",
 	"main": "dst/cjs/index.js",
 	"module": "dst/index.js",
