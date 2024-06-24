@@ -30,6 +30,7 @@ const rules = {
 	"indent": [ "error", "tab" ],
 	"no-mixed-spaces-and-tabs": "error",
 	"space-in-parens": [ "error", "never" ],
+	"template-curly-spacing": [ "error", "never" ],
 };
 
 export default rules;
